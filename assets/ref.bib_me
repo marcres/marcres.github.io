@@ -1,0 +1,381 @@
+@article{esposito2015nonlinear,
+  title={Nonlinear model predictive control of an organic rankine cycle for exhaust waste heat recovery in automotive engines},
+  author={Esposito, Marco Crialesi and Pompini, Nicola and Gambarotta, Agostino and Chandrasekaran, Vetrivel and Zhou, Junqiang and Canova, Marcello},
+  journal={IFAC-PapersOnLine},
+  volume={48},
+  number={15},
+  pages={411--418},
+  year={2015},
+  publisher={Elsevier}
+}
+
+
+%@article{esposito2015nonlinear,
+%	title={Nonlinear model predictive control of an organic rankine cycle for exhaust waste heat recovery in automotive engines},
+%	author={Esposito, Marco Crialesi and Pompini, Nicola and Gambarotta, Agostino and Chandrasekaran, Vetrivel and Zhou, Junqiang and Canova, Marcello},
+%	journal={IFAC-PapersOnLine},
+%	volume={48},
+%	number={15},
+%	pages={411--418},
+%	year={2015},
+%	publisher={Elsevier}
+%}
+
+
+
+
+%@article{salvador2017experimental,
+%	title={Experimental assessment of the fuel heating and the validity of the assumption of adiabatic flow through the internal orifices of a diesel injector},
+%	author={Salvador, FJ and Gimeno, Jaime and Carreres, M and Crialesi-Esposito, Marco},
+%	journal={Fuel},
+%	volume={188},
+%	pages={442--451},
+%	year={2017},
+%	publisher={Elsevier}
+%}
+%
+%@article{salvador2016fuel,
+%	title={Fuel temperature influence on the performance of a last generation common-rail diesel ballistic injector. Part I: Experimental mass flow rate measurements and discussion},
+%	author={Salvador, Francisco Javier and Gimeno, Jaime and Carreres, Marcos and Crialesi-Esposito, Marco},
+%	journal={Energy Conversion and Management},
+%	volume={114},
+%	pages={364--375},
+%	year={2016},
+%	publisher={Elsevier}
+%}
+%
+%@article{salvador2018analysis,
+%	title={Analysis on the effects of turbulent inflow conditions on spray primary atomization in the near-field by direct numerical simulation},
+%	author={Salvador, FJ and Ruiz, S and Crialesi-Esposito, Marco and Blanquer, Ignacio},
+%	journal={International Journal of Multiphase Flow},
+%	volume={102},
+%	pages={49--63},
+%	year={2018},
+%	publisher={Elsevier}
+%}
+%
+%@article{torregrosa2020study,
+%	title={Study of turbulence in atomizing liquid jets},
+%	author={Torregrosa, Antonio J and Payri, Raul and Salvador, F Javier and Crialesi-Esposito, Marco},
+%	journal={International Journal of Multiphase Flow},
+%	volume={129},
+%	pages={103328},
+%	year={2020},
+%	publisher={Elsevier}
+%}
+%
+%@article{haakansson2022criterion,
+%	title={A criterion for when an emulsion drop undergoing turbulent deformation has reached a critically deformed state},
+%	author={H{\aa}kansson, Andreas and Crialesi-Esposito, Marco and Nilsson, Lars and Brandt, Luca},
+%	journal={Colloids and Surfaces A: Physicochemical and Engineering Aspects},
+%	pages={129213},
+%	volume={648},
+%	year={2022},
+%	publisher={Elsevier}
+%}
+%
+%@article{olad2022towards,
+%	title={Towards best practice recommendations for turbulence modelling of high-pressure homogenizer outlet chambers--numerical validation using DNS data},
+%	author={Olad, Peyman and Esposito, Marco Crialesi and Brandt, Luca and Innings, Fredrik and Hakansson, Andreas},
+%	journal={Chemical Engineering Science},
+%	pages={117748},
+%	volume={258},
+%	year={2022},
+%	publisher={Elsevier}
+%}
+%@article{olad2022comparison,
+%	title = {Comparison of turbulent drop breakup in an emulsification device and homogeneous isotropic turbulence: Insights from numerical experiments},
+%	journal = {Colloids and Surfaces A: Physicochemical and Engineering Aspects},
+%	volume = {657},
+%	pages = {130569},
+%	year = {2023},
+%	author = {Peyman Olad and Fredrik Innings and Marco Crialesi-Esposito and Luca Brandt and Andreas Håkansson}
+%}
+%@article{olad2022direct,
+%	title={A Direct Numerical Simulation Investigation of the One-Phase Flow in a Simplified Emulsification Device},
+%	author={Olad, Peyman and Crialesi Esposito, Marco and Brandt, Luca and Innings, Fredrik and H{\aa}kansson, Andreas},
+%	journal={Journal of Fluids Engineering},
+%	volume={144},
+%	number={8},
+%	pages={081209},
+%	year={2022},
+%	publisher={American Society of Mechanical Engineers}
+%}
+%@article{crialesi2022modulation,
+%	title={Modulation of homogeneous and isotropic turbulence in emulsions},
+%	author={Crialesi-Esposito, Marco and Rosti, Marco Edoardo and Chibbaro, Sergio and Brandt, Luca},
+%	journal={Journal of Fluid Mechanics},
+%	volume={940},
+%	year={2022},
+%	publisher={Cambridge University Press}
+%}
+%
+%
+%
+%@article{crialesi2022effects,
+%	title={Effects of isotropic and anisotropic turbulent structures over spray atomization in the near field},
+%	author={Crialesi-Esposito, Marco and Gonzalez-Montero, LA and Salvador, FJ},
+%	journal={International Journal of Multiphase Flow},
+%	volume={150},
+%	pages={103891},
+%	year={2022},
+%	publisher={Elsevier}
+%}
+%
+%
+%@article{crialesi2023interaction,
+%	title={The interaction of droplet dynamics and turbulence cascade},
+%	author={Crialesi-Esposito, Marco and Chibbaro, Sergio and Brandt, Luca},
+%	journal={Communications Physics},
+%	volume={6},
+%	number={1},
+%	pages={5},
+%	year={2023},
+%	publisher={Nature Publishing Group UK London}
+%}
+%
+%@article{crialesi2023intermittency,
+%	title={Intermittency in turbulent emulsions},
+%	journal={Journal of Fluid Mechanics},
+%	author={Crialesi-Esposito, M and Boffetta, G and Brandt, L and Chibbaro, Sergio and Musacchio, S},
+%	volume={972},
+%	pages={A37},
+%	year={2023},
+%	publisher={Cambridge University Press}
+%}
+%
+%@article{crialesi2023flutas,
+%	title={FluTAS: A GPU-accelerated finite difference code for multiphase flows},
+%	author={Crialesi-Esposito, Marco and Scapin, Nicol{\`o} and Demou, Andreas D and Rosti, Marco Edoardo and Costa, Pedro and Spiga, Filippo and Brandt, Luca},
+%	journal={Computer Physics Communications},
+%	volume={284},
+%	pages={108602},
+%	year={2023},
+%	publisher={Elsevier}
+%}
+%
+%@article{demou2024effects,
+%	title={Effects of Rayleigh and Weber numbers on two-layer turbulent Rayleigh–Bénard convection},
+%	journal={Journal of Fluid Mechanics, (\textbf{accepted})},
+%	author={ Demou, Andreas D and Scapin, Nicol{\`o} and Crialesi-Esposito, Marco and  Costa, Pedro and Spiga, Filippo and Brandt, Luca},
+%	year={2024},
+%	publisher={Cambridge University Press}
+%}
+%
+%@article{crialesi2024small,
+%	title={How small droplets form in turbulent multiphase flows},
+%	journal={Physical Review Fluids - Letter (\textbf{accepted})},
+%	author={Crialesi-Esposito, M and Boffetta, G and Brandt, L and Chibbaro, Sergio and Musacchio, S},
+%	year={2024},
+%	publisher={American Physical Ssociety}
+%}
+%
+%%@article{Crialesi2021d,
+%%	title={Turbulence modulation of neutrally buoyant particles in homogeneous and isotropic conditions.},
+%%	author={ Youssefi, Ali and  Crialesi-Esposito, Marco and Mirzareza, Shahab and Brandt, Luca.},
+%%	journal={\textit{in preparation}},
+%%	%   volume={},
+%%	%   pages={},
+%%	year={2021},
+%%	%   publisher={}
+%%}
+%
+%@article{Crialesi2021e,
+%	title={Surface tension effects on energy transfer in homogeneous arrays of rising bubbles.},
+%	author={  Crialesi-Esposito, Marco and Mirzareza, Shahab and Pandey, Vikash and Perlekar, Prasad and Mita, Dhrubaditya and Brandt, Luca.},
+%	journal={\textit{in preparation}},
+%	%   volume={},
+%	%   pages={},
+%	year={2021},
+%	%   publisher={}
+%}
+%
+%@article{salvador2018comparative,
+%	title={Comparative study of the internal flow in diesel injection nozzles at cavitating conditions at different needle lifts with steady and transient simulations approaches},
+%	author={Salvador, FJ and De la Morena, J and Crialesi-Esposito, M and Mart{\'i}nez-L{\'o}pez, J},
+%	journal={Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering},
+%	volume={232},
+%	number={8},
+%	pages={1060--1078},
+%	year={2018},
+%	publisher={SAGE Publications Sage UK: London, England}
+%}
+%
+%@article{salvador2018experimental,
+%	title={Experimental investigation of the effect of orifices inclination angle in multihole diesel injector nozzles. Part 1--Hydraulic performance},
+%	author={Salvador, FJ and Lopez, JJ and De la Morena, J and Crialesi-Esposito, M},
+%	journal={Fuel},
+%	volume={213},
+%	pages={207--214},
+%	year={2018},
+%	publisher={Elsevier}
+%}
+%
+%@article{salvador2018determination,
+%	title={Determination of critical operating and geometrical parameters in diesel injectors through one dimensional modelling, design of experiments and an analysis of variance},
+%	author={Salvador, Francisco J and Carreres, Marcos and Crialesi-Esposito, Marco and Plazas, Alejandro H},
+%	journal={Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering},
+%	volume={232},
+%	number={13},
+%	pages={1762--1781},
+%	year={2018},
+%	publisher={SAGE Publications Sage UK: London, England}
+%}
+%
+%
+%@article{arrufat2021mass,
+%	title={A mass-momentum consistent, Volume-of-Fluid method for incompressible flow on staggered grids},
+%	author={Arrufat, T and Crialesi-Esposito, M and Fuster, D and Ling, Y and Malan, L and Pal, S and Scardovelli, R and Tryggvason, G and Zaleski, S},
+%	journal={Computers \& Fluids},
+%	volume={215},
+%	pages={104785},
+%	year={2021},
+%	publisher={Elsevier}
+%}
+%
+%@article{aniszewski2021parallel,
+%	title={Parallel, robust, interface simulator (PARIS)},
+%	author={Aniszewski, Wojciech and Arrufat, T and Crialesi-Esposito, Marco and Dabiri, S and Fuster, Daniel and Ling, Y and Lu, Jiacai and Malan, L and Pal, Sukla and Scardovelli, R and others},
+%	journal={Computer Physics Communications},
+%	volume={263},
+%	pages={107849},
+%	year={2021},
+%	publisher={Elsevier}
+%}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%@inproceedings{payri2018dns,
+%	title={DNS-like simulations of atomization in the nozzle near field in plainorifice atomizers},
+%	author={Payri, R and Salvador, FJ and Crialesi, M},
+%	booktitle={DIPSI Workshop 2018-Droplet Impact Phenomena \& Spray Investigations},
+%	pages={41--44},
+%	year={2018},
+%	organization={Universit{\`a} degli studi di Bergamo}
+%}
+%
+%@article{salvador2017MEHB,
+%	title={Coupling internal nozzle flow features to DNS of spray primary atomization},
+%	author={Salvador, FJ and Crialesi-Esposito, Marco and Romero, JV and Rosell{\'o}, MD},
+%	journal = {Modelling  for Engineering and Human Behaviour},
+%	year = {2017}
+%}
+%
+%@article{salvador2016MEHB,
+%	title={Using a Digital Filter-Based Synthetic Turbulence for DNS Simulation of Sprays
+%	Atomization},
+%	author={Salvador, FJ and Crialesi-Esposito, Marco and Romero, JV and Rosell{\'o}, MD},
+%	journal = {Modelling  for Engineering and Human Behaviour},
+%	year = {2016}
+%}
+%
+%@article{Payri2018iclass,
+%	title={Study Of Energy Cascade In Spray Near-field},
+%	author={Payri, R and Salvador, FJ and Gimeno, J and Crialesi, M},
+%	journal={ICLASS2019 Chicago,IL},
+%	year={2018}
+%}
+%
+%@article{Payri2019ilass,
+%	title={Comparison of mapped and synthetic inflow boundary conditions in Direct Numerical Simulation of sprays},
+%	author={Payri, R and Salvador, FJ and Gimeno, J and Crialesi, M},
+%	journal={ILASS2019 Paris,FR},
+%	year={2019}
+%}
+%
+%@article{zaleski2018momentum,
+%	title={A momentum-conserving, consistent, Volume-of-Fluid method for incompressible flow on staggered grids},
+%	author={Zaleski, Stephane and Fuster, Daniel and Crialesi Esposito, Marco and Ling, Yue and Malan, Leon and Pal, Sagar and Scardovelli, Ruben and Tryggvason, Gretar},
+%	journal={Bulletin of the American Physical Society},
+%	year={2018},
+%	publisher={APS}
+%}
+%
+%@inproceedings{gambarotta2016real,
+%	title={Real-time simulation of the effects of catalyst on automotive engines performance},
+%	author={Gambarotta, Agostino and Esposito, M Crialesi and Eggenschwiler, P Dimopoulos and Lucci, F},
+%	booktitle={16. Internationales Stuttgarter Symposium},
+%	pages={737--753},
+%	year={2016},
+%	organization={Springer}
+%}
+%
+%@inproceedings{canova2014lumped,
+%	title={Lumped-parameter modeling and analysis of automotive waste heat recovery systems based on an organic rankine cycle},
+%	author={Canova, Marcello and Gambarotta, A and Esposito, M Crialesi and Laboe, K and Zajac, M},
+%	booktitle={14. Internationales Stuttgarter Symposium},
+%	pages={1309--1324},
+%	year={2014},
+%	organization={Springer}
+%}
+%@inproceedings{esposito2015switching,
+%	title={A switching Moving Boundary Model for the simulation of ORC plants in automotive applications},
+%	author={Crialesi-Esposito, Marco  and Pompini, Nicola and Gambarotta, Agostino and Canova, Marcello},
+%	booktitle={15. Internationales Stuttgarter Symposium},
+%	pages={735--753},
+%	year={2015},
+%	organization={Springer}
+%}
+%
+%@inproceedings{crialesi2021c,
+%	title={Statistical dispersion of flapping events in air-assisted atomization},
+%	author={Crialesi-Esposito, Marco and Pal, Sagar and Zaleski, Stephane and Brandt, Luca},
+%	booktitle={ICLASS2021},
+%	year={2021}
+%}
+%
+%
+%@inproceedings{crialesi2021d,
+%	title={Droplet generation in ensembles of randomly corrugated ligaments},
+%	author={Pal, Sagar and Crialesi-Esposito, Marco and Fuster, Daniel and Zaleski, Stephane},
+%	booktitle={ICLASS2021},
+%	year={2021}
+%}
+%
+%@inproceedings{crialesi2021e,
+%	title={Numerical study of emulsions in homogeneous and isotropic turbulence},
+%	author={Crialesi-Esposito, Marco and Rosti, Marco and Chibbaro, Sergio and Brandt, Luca},
+%	booktitle={EUROMECH Colloquium 621, Reykjavík (IS)},
+%	year={2021}
+%}
+%
+%@inproceedings{crialesi2021f,
+%	title={Numerical study of emulsions in homogeneous and isotropic turbulence},
+%	author={Crialesi-Esposito, Marco and Rosti, Marco and Chibbaro, Sergio and Brandt, Luca},
+%	booktitle={APS-DFD 2021, Phoenix, AZ, USA},
+%	year={2021}
+%}
+%
+%@inproceedings{crialesi2022a,
+%	title={Emulsions in homogeneous and isotropic turbulence},
+%	author={Crialesi-Esposito, Marco  and Chibbaro, Sergio and Brandt, Luca},
+%	booktitle={EFMC14, Athens, Greece},
+%	year={2022}
+%}
+%
+%@inproceedings{crialesi2023a,
+%	title={Intermittency in turbulent emulsions},
+%	author={Crialesi-Esposito, Marco and Boffetta, Guido and Brandt, Luca and Chibbaro, Sergio and Musacchio, Stefano},
+%	booktitle={ETC18, Valencia, Spain},
+%	year={2023}
+%}
+%
+%%%%%%%%%%%%%%%%%%%%
+%@article{vega2022disruption,
+%	title={Disruption prediction with artificial intelligence techniques in tokamak plasmas},
+%	author={Vega, J and Murari, A and Dormido-Canto, S and Ratt{\'a}, GA and Gelfusa, M and others},
+%	journal={Nature Physics},
+%	volume={18},
+%	pages={1--10},
+%	year={2022},
+%	publisher={Nature Publishing Group}
+%}
+%@article{mailloux2022overview,
+%	title={Overview of JET results for optimising ITER operation},
+%	author={Mailloux, J and Abid, N and Abraham, K and Abreu, P and Adabonyan, O and Adrich, P and Afanasev, V and Afzal, M and Ahlgren, T and Aho-Mantila, L and others},
+%	journal={Nuclear Fusion},
+%	volume={62},
+%	number={4},
+%	pages={042026},
+%	year={2022},
+%	publisher={IOP Publishing}
+%}
